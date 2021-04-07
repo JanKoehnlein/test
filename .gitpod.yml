@@ -1,3 +1,5 @@
+tasks:
+  - init: sleep 20 && echo "Foo"
 github:
   prebuilds:
     # enable for the master/default branch (defaults to true)
