@@ -20,7 +20,8 @@ github:
     addLabel: true
 vscode:
   extensions:
-    - ms-vscode.cpptools@1.3.1:da05738d270924864b6ecc66a17b5125
-    - twxs.cmake@0.0.17:9s7m9CWOr6i6NZ7CNNF4kw==
-    - ms-vscode.cmake-tools@1.4.0:eP3hU/MFme+CcSL21Klk1w==
+    - ms-vscode.cpptools
+    - twxs.cmake
+    - ms-vscode.cmake-tools
+
 
